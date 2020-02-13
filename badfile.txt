@@ -1,0 +1,373 @@
+total 32
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff    0 Feb 13 04:12 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff  459 Feb 13 04:13 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff  918 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 1377 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 1836 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 2295 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 2754 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 3213 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 36
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 3672 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 4131 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 4590 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 5049 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 5508 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4327 Feb 13 04:12 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 5967 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4392 Feb 13 04:14 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 6426 Feb 13 04:14 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4392 Feb 13 04:14 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 6885 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4392 Feb 13 04:14 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 7344 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4409 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 40
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 7803 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4409 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 8262 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4415 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 8721 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4415 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 9180 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4423 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff   18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 9639 Feb 13 04:15 badfile.txt
+-rw-r--r-- 1 skeptycal staff  968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff 4423 Feb 13 04:15 catch_redir.py
+-rw-r--r-- 1 skeptycal staff   52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff  284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff  345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff   25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 10098 Feb 13 04:16 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4423 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 10565 Feb 13 04:16 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4423 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 11032 Feb 13 04:16 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4423 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 11499 Feb 13 04:16 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4468 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 44
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 11966 Feb 13 04:16 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4468 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 12433 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4468 Feb 13 04:16 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 12900 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4470 Feb 13 04:17 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 13367 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4469 Feb 13 04:17 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 13834 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4470 Feb 13 04:17 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 14301 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4469 Feb 13 04:17 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 14768 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4470 Feb 13 04:17 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 15235 Feb 13 04:17 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4470 Feb 13 04:18 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 15702 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4471 Feb 13 04:19 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 48
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 16169 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4471 Feb 13 04:19 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 52
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 16636 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rwxr-xr-x 1 skeptycal staff  4454 Feb 13 04:19 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 56
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 17103 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rw-r--r-- 1 skeptycal staff   993 Feb 13 04:19 badile.txt
+-rwxr-xr-x 1 skeptycal staff  4453 Feb 13 04:19 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 56
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 17629 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rw-r--r-- 1 skeptycal staff   993 Feb 13 04:19 badile.txt
+-rwxr-xr-x 1 skeptycal staff  4454 Feb 13 04:19 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 56
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 18155 Feb 13 04:19 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rw-r--r-- 1 skeptycal staff   993 Feb 13 04:19 badile.txt
+-rwxr-xr-x 1 skeptycal staff  4455 Feb 13 04:20 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
+total 56
+-rw-r--r-- 1 skeptycal staff    18 Feb 13 03:52 TEst
+-rw-r--r-- 1 skeptycal staff 18681 Feb 13 04:20 badfile.txt
+-rw-r--r-- 1 skeptycal staff   968 Feb 13 03:52 badfile_test.txt
+-rw-r--r-- 1 skeptycal staff   993 Feb 13 04:19 badile.txt
+-rwxr-xr-x 1 skeptycal staff  4454 Feb 13 04:20 catch_redir.py
+-rw-r--r-- 1 skeptycal staff    52 Feb 13 04:01 setup.sh
+-rwxr-xr-x 1 skeptycal staff   284 Feb 13 03:52 sp
+-rw-r--r-- 1 skeptycal staff   345 Feb 13 03:52 sp.log
+-rw-r--r-- 1 skeptycal staff    25 Feb 13 03:52 tEsT1
