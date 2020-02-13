@@ -1,5 +1,35 @@
 #!/usr/bin/env python3
-# -*- coding: UTF-8 -*-
+# -*- encoding: utf-8 -*-
+''' catch_redir.py - Fun utility for catching command line responses.
+        import it or use with the following CLI syntax:
+
+    Usage:
+        - anansi TEXT [-z]
+        - anansi FILE(s) [-Rz] [-q | -v ] [--pattern PATTERN]
+        - anansi TEMPLATE [-Rz] [-q | -v] [--pattern PATTERN]
+        - anansi [--help | --version]
+
+    Options:
+        FILE(s)                 Search pattern to match
+        -q, --quiet             Suppress most error messages  [default: True]
+        -r, --recursive         Perform search recursively    [default: False]
+        -v, --verbose           Display detailed progress     [default: False]
+        -z, --zero              End each output line with NUL [default: False]
+
+        -P PATTERN --pattern PATTERN    Pattern to highlight  [default: None]
+
+        --version               Show version.
+        --debug                 Show debug info and test results.
+        -h, --help              Show this screen.
+
+    Exit status:
+
+        0 if all file names were printed without issue.
+        1 otherwise.
+
+    Based on ANSI standard ECMA-48:
+    http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-048.pdf
+    '''
 
 import locale
 import sys
@@ -8,8 +38,10 @@ from pathlib import Path
 from subprocess import check_output
 from sys import argv, platform
 from typing import Dict, List, Sequence
+from docopt import docopt
 
 # ---------------------- utility functions
+__version__ = '0.4.0'
 
 
 def br(n: int = 1, retval: bool = False):
@@ -43,7 +75,11 @@ class ConfigVars(dict):
     WIDTH:              int = 57
     ARGS:               List[str] = argv[1:]
     ENCODING:           str = ''
-    _output_filename:    str = 'badfile.txt'
+    _output_filename:   str = 'badfile.txt'
+    d:                  docopt = docopt(argv=argv,
+                                        help=True,
+                                        version=__version__,
+                                        options_first=True)
 
     def __init__(self):
         super().__init__(self)
@@ -51,6 +87,7 @@ class ConfigVars(dict):
             self.ENCODING = locale.getpreferredencoding()
         except locale.Error as e:
             self.ENCODING = 'utf-8'  # set default on locale errors
+        doc_opts(d)
 
     def dir_commands(self) -> List[str]:
         """ Return sample directory listing shell command. """
