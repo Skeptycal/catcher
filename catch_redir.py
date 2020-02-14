@@ -1,34 +1,66 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
-''' catch_redir.py - Fun utility for catching command line responses.
-        import it or use with the following CLI syntax:
+''' catcher.py - Fun utility for catching command line responses. When run with
+        a list of shell commands and options, it will execute the commands and
+        return the stdout (standard output) to a file. It can also optionally print the output to the screen as it would normally appear.
+
+        Import it in Python 3.6+ or use with the following CLI syntax:
 
     Usage:
-        - anansi TEXT [-z]
-        - anansi FILE(s) [-Rz] [-q | -v ] [--pattern PATTERN]
-        - anansi TEMPLATE [-Rz] [-q | -v] [--pattern PATTERN]
-        - anansi [--help | --version]
+        - catcher COMMANDS(s) [-ez] [-q | -v ] [-O PATTERN]
+        - catcher TEMPLATE [-Rz] [-q | -v] [--pattern PATTERN]
+        - catcher [--help | --version]
 
     Options:
-        FILE(s)                 Search pattern to match
-        -q, --quiet             Suppress most error messages  [default: True]
-        -r, --recursive         Perform search recursively    [default: False]
-        -v, --verbose           Display detailed progress     [default: False]
-        -z, --zero              End each output line with NUL [default: False]
+        FILE(s)                 List of commands and options
+        -e, --errors            Pass stderr in addition       [default: True]
+        -d, --debug             Show debug info.              [default: False]
+        -O FILE --output FILE   Path of output file           [default: None]
 
-        -P PATTERN --pattern PATTERN    Pattern to highlight  [default: None]
+        -q, --quiet             Suppress most error messages  [default: True]
+        -v, --verbose           Display detailed progress     [default: False]
 
         --version               Show version.
-        --debug                 Show debug info and test results.
         -h, --help              Show this screen.
+
+        FILE: The default is a randomly named file with the prefix 'catcher_'
+            and the suffix '.log' in the current directory. If only a
+            directory is given for FILE, the random filename will be
+            created there. If the directory or filename are unusable,
+            the defaults are used.
+
+
+    Examples:
+        example default file name: catcher_c59diuej23.log
+
+        catch directory listing:
+            ```sh
+            > catcher ls -lAh --color=tty *.py
+
+            -rwxr-xr-x 1 skeptycal staff 6.4K Feb 13 09:20 catch_redir.py
+            -rwxr-xr-x 1 skeptycal staff 2.7K Feb 13 08:59 setup.py
+
+            > catcher ls -lAh --color=tty *.txt
+
+            -rw-r--r-- 1 skeptycal staff 19K Feb 13 04:20 badfile.txt
+            -rw-r--r-- 1 skeptycal staff 968 Feb 13 03:52 badfile_test.txt
+
+            > cat catcher.log
+
+            catcher log 2/13/2020 9:27am
+            --------------------------------------------------------------
+            -rwxr-xr-x 1 skeptycal staff 6.4K Feb 13 09:20 catch_redir.py
+            -rwxr-xr-x 1 skeptycal staff 2.7K Feb 13 08:59 setup.py
+            total 100K
+            -rw-r--r-- 1 skeptycal staff 19K Feb 13 04:20 badfile.txt
+            -rw-r--r-- 1 skeptycal staff 968 Feb 13 03:52 badfile_test.txt
+            ```
 
     Exit status:
 
-        0 if all file names were printed without issue.
-        1 otherwise.
+        0    if all functions completed without issue.
+        >=1  otherwise.
 
-    Based on ANSI standard ECMA-48:
-    http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-048.pdf
     '''
 
 import locale
